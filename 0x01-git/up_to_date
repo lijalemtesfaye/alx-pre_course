@@ -1,3 +1,4 @@
 git add .
 git commit -m 'this is up to date data'
 git push
+git pull
